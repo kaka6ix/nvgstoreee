@@ -48,7 +48,7 @@
 <body>
 
 <header>
-  <h1>nvgstore</h1>
+  <h1>daniwisnu</h1>
   <div id="cart-info">0 item(s) - Rp 0</div>
 </header>
 
