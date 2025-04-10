@@ -56,9 +56,9 @@
 
 <script>
   const products = [
-    { id: 1, name: "Kaos Hitam Polos", price: 120000 },
-    { id: 2, name: "Kemeja Flanel", price: 180000 },
-    { id: 3, name: "Hoodie Oversize", price: 250000 },
+    { id: 1, name: "Dani kopling 69", price: 696969 },
+    { id: 2, name: "Zandut icikiwir", price: 876533 },
+    { id: 3, name: "tris su", price: 1234766 },
   ];
 
   const cart = [];
