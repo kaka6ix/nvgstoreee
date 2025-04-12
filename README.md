@@ -58,7 +58,7 @@
   const products = [
     { id: 1, name: "Dani kopling 69", price: 696969 },
     { id: 2, name: "Zandut icikiwir", price: 876533 },
-    { id: 3, name: "tris su", price: 1234766 },
+    { id: 3, name: "tris su", price: rapayu },
   ];
 
   const cart = [];
